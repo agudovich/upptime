@@ -13,8 +13,8 @@ sites:
     method: GET
 
 status-website:
-  cname: status.gudovich.me # Если захочешь привязать свой домен
-  baseUrl: /status-page
+#  cname: status.gudovich.me # Если захочешь привязать свой домен
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Service Status"
   introMessage: "Мониторинг сервисов"
