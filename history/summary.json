@@ -26,18 +26,16 @@
     "slug": "print-cut-e-commerce",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1150,
     "timeDay": 22210,
     "timeWeek": 5191,
     "timeMonth": 3108,
     "timeYear": 1150,
-    "dailyMinutesDown": {
-      "2026-11-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TAGIO",
@@ -45,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tagio.id.ico",
     "slug": "tagio",
     "status": "up",
-    "uptime": "48.63%",
+    "uptime": "48.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.63%",
+    "uptimeYear": "48.64%",
     "time": 797,
     "timeDay": 947,
     "timeWeek": 842,
@@ -207,7 +205,7 @@
     "timeMonth": 338,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-11-03": 244,
+      "2026-11-03": 291,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
